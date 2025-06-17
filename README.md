@@ -13,8 +13,12 @@ Owner of Madhav store want us to help them create a Dashboard to track and Analy
 ## Features 
 
 ✅ Sales Performance Tracking – Analyze total sales, revenue, and growth trends.
+
 ✅ Customer Insights – Identify top customers, retention rates, and purchasing behavior.
+
 ✅ Product & Category Analysis – Track sales by product category and best-selling items.
+
 ✅ Time-Based Trends – Monthly and yearly sales comparisons to identify peak seasons.
+
 ✅ Interactive Visualizations – Dynamic charts, filters, and KPIs for deeper insights.
 
