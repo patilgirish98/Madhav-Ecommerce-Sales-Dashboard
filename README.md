@@ -7,5 +7,6 @@ Owner of Madhav store want us to help them create a Dashboard to track and Analy
 - <a href="https://github.com/patilgirish98/Madhav-Ecommerce-Sales-Dashboard/blob/main/Orders.csv"Madhav Ecommerce Sales</a>
 
 🔍 Project Overview
+
    This Sales Analysis Dashboard is built using Power BI to visualize and analyze sales performance, customer behavior, and revenue trends. The dashboard provides actionable insights to help businesses make data-      driven decisions and optimize sales strategies.
 
