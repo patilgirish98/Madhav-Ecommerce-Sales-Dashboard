@@ -25,6 +25,8 @@ Owner of Madhav store want us to help them create a Dashboard to track and Analy
 ## Tools & Technologies
 
  Power BI – Dashboard creation and data visualization
+ 
  SQL – Data extraction and transformation
+ 
  Excel – Data preprocessing and validation
 
