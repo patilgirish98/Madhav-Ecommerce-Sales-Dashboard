@@ -10,7 +10,7 @@ Owner of Madhav store want us to help them create a Dashboard to track and Analy
 
    This Sales Analysis Dashboard is built using Power BI to visualize and analyze sales performance, customer behavior, and revenue trends. The dashboard provides actionable insights to help businesses make data-      driven decisions and optimize sales strategies.
 
-🚀 Features 
+## Features 
 
 ✅ Sales Performance Tracking – Analyze total sales, revenue, and growth trends.
 ✅ Customer Insights – Identify top customers, retention rates, and purchasing behavior.
