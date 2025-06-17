@@ -22,7 +22,7 @@ Owner of Madhav store want us to help them create a Dashboard to track and Analy
 
 ✅ Interactive Visualizations – Dynamic charts, filters, and KPIs for deeper insights.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
  Power BI – Dashboard creation and data visualization
  SQL – Data extraction and transformation
