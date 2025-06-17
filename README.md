@@ -30,3 +30,8 @@ Owner of Madhav store want us to help them create a Dashboard to track and Analy
  
  Excel – Data preprocessing and validation
 
+ ## Dashboard Image 
+
+ ![Screenshot 2025-06-16 172304](https://github.com/user-attachments/assets/871aefc6-2011-4604-b219-290829c3f0d9)
+
+
